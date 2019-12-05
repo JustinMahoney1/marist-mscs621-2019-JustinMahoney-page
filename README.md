@@ -17,5 +17,6 @@ Post to /groceries with name, description, and amount
 
 
 
-IBM deployment at marist-final-project-bluemix-jm.mybluemix.net
+IBM deployment at http://marist-final-project-bluemix-jm.mybluemix.net
+
 AWS deployment at http://maristmscs621justinmahoneypage-env.gjndpwpx5d.us-east-2.elasticbeanstalk.com/
