@@ -11,3 +11,11 @@ Run container in detached mode and publish port 5000 `docker run -d -p 5000:5000
 API should be accessible on port 5000 `curl -i localhost:5000/todo/api/v1.0/groceries`
 
 Post to /groceries with name, description, and amount
+
+
+
+
+
+
+IBM deployment at marist-final-project-bluemix-jm.mybluemix.net
+AWS deployment at http://maristmscs621justinmahoneypage-env.gjndpwpx5d.us-east-2.elasticbeanstalk.com/
