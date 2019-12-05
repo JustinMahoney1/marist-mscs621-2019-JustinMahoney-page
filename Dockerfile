@@ -10,4 +10,4 @@ RUN git clone https://github.com/marist-mscs621-2019-JustinMahoney-page.git /dep
 RUN virtualenv /deployment/env/
 RUN /deployment/env/bin/pip install flask
 WORKDIR /deployment
-CMD env/bin/python app.py
+CMD env/bin/python maristappjm.py
