@@ -10,5 +10,3 @@ applications:
   path: .
   disk_quota: 512M
   buildpack: python_buildpack
-  services:
-  - RedisCloud
